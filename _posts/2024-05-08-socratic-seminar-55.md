@@ -25,6 +25,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 ### bitcoin-dev
 
 ### Delving Bitcoin
+- [Exploding Keys - Covenant construction](https://delvingbitcoin.org/t/exploding-keys-covenant-construction/832)
 
 ## Pull requests
 
