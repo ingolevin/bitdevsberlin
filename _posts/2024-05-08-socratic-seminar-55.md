@@ -19,6 +19,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Bitcoin Mining Pools Have Become Critically Centralized](https://www.tftc.io/bitcoin-mining-pool-centralization/)
 
 ## Europe/Germany/Berlin
+- [The Bitcoin Meetup Jun 6-9,2024@Berlin](https://kongerik.et/the-bitcoin-meetup)
 
 ## Mailing Lists
 
