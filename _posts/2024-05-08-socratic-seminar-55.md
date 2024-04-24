@@ -9,14 +9,14 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 ## Security/CVEs/InfoSec/Research
 
-- [Bitcoin Mining Pools Have Become Critically Centralized](https://www.tftc.io/bitcoin-mining-pool-centralization/)
+
 
 
 ## Miscellaneous
 
 
 ## Network Data
-
+- [Bitcoin Mining Pools Have Become Critically Centralized](https://www.tftc.io/bitcoin-mining-pool-centralization/)
 
 ## Europe/Germany/Berlin
 
